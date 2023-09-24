@@ -1,6 +1,7 @@
 # Projects_FreeCodeCamp
 
 **My projects, created on the FreeCodeCamp platform.**
+
 Bem-vindo à pasta de projetos do FreeCodeCamp! Nesta pasta, você encontrará uma coleção de projetos incríveis que foram desenvolvidos como parte do meu aprendizado e prática na plataforma FreeCodeCamp.
 
 Agradeço por explorar meus projetos do FreeCodeCamp e espero que encontre algo interessante aqui! 😊🚀
