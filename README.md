@@ -21,7 +21,7 @@ Contato
 
 Se você deseja entrar em contato comigo para discutir algum projeto específico ou colaboração, você pode me encontrar nas seguintes redes sociais:
 
-    GitHub: MayconRodriguesDev
+    GitHub: MAYCON-RF
     LinkedIn: https://www.linkedin.com/in/maycon-rodrigues-ferreira-458974237/
 
 
