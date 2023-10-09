@@ -1,4 +1,4 @@
-// Declare a variável myGlobal abaixo desta linha
+git// Declare a variável myGlobal abaixo desta linha
 
 const myGlobal = 10 ;
 const training = "voce aprendeu"
