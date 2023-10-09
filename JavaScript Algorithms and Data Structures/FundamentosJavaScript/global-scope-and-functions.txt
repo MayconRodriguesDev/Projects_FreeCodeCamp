@@ -1,5 +1,5 @@
 git// Declare a variável myGlobal abaixo desta linha
-
+//Teste seção de Telemetria
 const myGlobal = 10 ;
 const training = "voce aprendeu"
 
