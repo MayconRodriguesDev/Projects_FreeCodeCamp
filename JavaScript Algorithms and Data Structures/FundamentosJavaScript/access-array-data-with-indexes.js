@@ -3,4 +3,4 @@ const myData=myArray[0];
 const mySecondData = myArray[1];
 const mythirdData = myArray[2];
 
-console.log(myData,mySecondData, mythirdData);
+console.log(myData, mySecondData, mythirdData);
