@@ -1,0 +1,15 @@
+function confirmEnding(str, target) {
+
+  const ultimasLetras = str.slice(-target.length);
+  
+  if (ultimasLetras === target) {
+    return true;
+  }else {
+    return false;
+  }
+}
+
+confirmEnding("Bastian", "n");
+
+console.log(confirmEnding("Bastian", "n"))
+
