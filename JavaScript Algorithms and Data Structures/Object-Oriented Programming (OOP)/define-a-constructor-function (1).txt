@@ -1,0 +1,10 @@
+function Dog(){
+  this.name = "au";
+  this.color = "black";
+  this.numLegs = 4;
+}
+
+
+let arte = new Dog;
+
+console.log(arte.color);
